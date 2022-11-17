@@ -1,3 +1,14 @@
+# React.js & Material UI Navigation Bar
+
+- Simple navigation bar project.
+
+## Built With
+
+- React.js
+- Material UI
+
+## Setup
+
 Run:
 
 1.
