@@ -58,7 +58,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
   },
 }));
 
-const pages = ['Products', 'Pricing', 'Blog'];
+const pages = ['Chris', 'Dellano', 'Geegee'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function Navbar() {
@@ -103,7 +103,7 @@ function Navbar() {
               color: 'inherit',
               textDecoration: 'none',
             }}>
-            BADASS
+            BADASS DEVS
           </Typography>
           <Search sx={{}}>
             <SearchIconWrapper>
